@@ -1,0 +1,7 @@
+c:\users\arafat\documents\visual studio 2010\Projects\MvcApplication6\MvcApplication6\bin\MvcApplication6.dll
+c:\users\arafat\documents\visual studio 2010\Projects\MvcApplication6\MvcApplication6\bin\MvcApplication6.pdb
+c:\users\arafat\documents\visual studio 2010\Projects\MvcApplication6\MvcApplication6\bin\EntityFramework.dll
+c:\users\arafat\documents\visual studio 2010\Projects\MvcApplication6\MvcApplication6\bin\EntityFramework.xml
+c:\users\arafat\documents\visual studio 2010\Projects\MvcApplication6\MvcApplication6\obj\Debug\ResolveAssemblyReference.cache
+c:\users\arafat\documents\visual studio 2010\Projects\MvcApplication6\MvcApplication6\obj\Debug\MvcApplication6.dll
+c:\users\arafat\documents\visual studio 2010\Projects\MvcApplication6\MvcApplication6\obj\Debug\MvcApplication6.pdb
